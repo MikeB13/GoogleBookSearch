@@ -1,0 +1,27 @@
+{
+  "name": "googlebooksearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeB13/GoogleBookSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeB13/GoogleBookSearch/issues"
+  },
+  "homepage": "https://github.com/MikeB13/GoogleBookSearch#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
